@@ -46,6 +46,7 @@ jsproxy_config({
         //'b.hehe.workers.dev': 1,
         //'b.lulu.workers.dev': 1,
         //'b.jsproxy.workers.dev': 1,
+        'freedom-fly.408029164.workers.dev':1,
       }
     }
   },
