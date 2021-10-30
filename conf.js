@@ -23,16 +23,8 @@ jsproxy_config({
     'demo-sg': {
       label: '演示服务-新加坡节点',
       lines: {
-        {"address":"198.57.27.225",
-    "id":"faBAoD54k87UJG7",
-    "network":"tcp",
-    "port":2375,
-    "protocol":"shadowsocks",
-    "ps":"github.com/freefq - 北美地区  10",
-    "security":"aes-256-gcm",
-    "subscribeUrl":"https://github.com/freefq/free#v2ray"}
-}
-,
+        'node-aliyun-sg.etherdream.com:8443': 1,
+      },
     },
     'mysite': {
       label: '当前站点',
