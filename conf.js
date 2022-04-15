@@ -29,7 +29,7 @@ jsproxy_config({
     'test': {
       label: '测试节点',
       lines: {
-        'ipv6.jacklou.tk:443': 1,
+        'ipv6.jacklou.tk:8443': 1,
       },
     },
     'mysite': {
