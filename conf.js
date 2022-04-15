@@ -47,10 +47,6 @@ jsproxy_config({
         //'b.lulu.workers.dev': 1,
         //'b.jsproxy.workers.dev': 1,
         'freedom-fly-1.408029164.workers.dev':1,
-        'freedom-fly-2.408029164.workers.dev':2,
-        'freedom-fly-3.408029164.workers.dev':3,
-        'freedom-fly-4.408029164.workers.dev':4,
-        'freedom-fly-5.408029164.workers.dev':5,
       }
     }
   },
