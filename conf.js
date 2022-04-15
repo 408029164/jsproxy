@@ -29,7 +29,7 @@ jsproxy_config({
     'test': {
       label: '测试节点',
       lines: {
-        'vps.happyvideo.tk:8443': 1,
+        'ipv6.ipv6a.my.id:8443': 1,
       },
     },
     'mysite': {
