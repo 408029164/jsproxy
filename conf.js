@@ -26,6 +26,12 @@ jsproxy_config({
         'node-aliyun-sg.etherdream.com:8443': 1,
       },
     },
+    'test': {
+      label: '测试节点',
+      lines: {
+        'ipv6.jacklou.tk:443': 1,
+      },
+    },
     'mysite': {
       label: '当前站点',
       lines: {
